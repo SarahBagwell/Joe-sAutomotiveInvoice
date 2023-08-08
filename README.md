@@ -10,7 +10,7 @@ This form was created via value-returning methods, various controls, and mathema
 
 - <b>C#</b> 
 
-<h2>Environments Used </h2>
+<h2>Environment Used </h2>
 
 - <b>Microsoft Visual Studio</b> (2022 Community)
 
